@@ -1,0 +1,170 @@
+{
+  "editor.fontSize": 18,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontFamily": "Cascadia Code, Menlo, DankMono-Italic, Jetbrains Mono, Fira Code, Liberation Mono, SF Mon, Droid Sans Mono, Monaco, Operator Mono, Fira Code iScript, Ubuntu Mono",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "editor.fontLigatures": true,
+  // "editor.fontWeight": "500",
+  "gitlens.views.branches.branches.layout": "list",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/.build": true,
+    "**/.gh-pages": true
+  },
+  "eslint.options": {
+    "rules": {
+      "max-statements": "off",
+      "no-else-return": "off",
+      "react/jsx-fragments": "off"
+    }
+  },
+  "editor.cursorBlinking": "phase",
+  "workbench.editor.untitled.hint": "hidden",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.tree.indent": 20,
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontWeightBold": "normal",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vscode-json-editor.theme": "dark",
+  "terminal.integrated.fontFamily": "Menlo, Fira Code",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tokenColorCustomizations": {},
+  "emojisense.languages": {
+    "plaintext": {
+      "markupCompletionsEnabled": true,
+
+      "emojiDecoratorsEnabled": true
+    },
+
+    "javascript.validate.enable": false,
+
+    "abap": true,
+
+    "bat": true,
+
+    "bibtex": true,
+
+    "clojure": true,
+
+    "coffeescript": true,
+
+    "c": true,
+
+    "cpp": true,
+
+    "csharp": true,
+
+    "css": true,
+
+    "diff": true,
+
+    "dockerfile": true,
+
+    "fsharp": true,
+
+    "git-commit": true,
+
+    "git-rebase": true,
+
+    "go": true,
+
+    "groovy": true,
+
+    "handlebars": true,
+
+    "html": true,
+
+    "ini": true,
+
+    "java": true,
+
+    "javascript": true,
+
+    "javascriptreact": true,
+
+    "json": true,
+
+    "jsonc": true,
+
+    "latex": true,
+
+    "less": true,
+
+    "lua": true,
+
+    "makefile": true,
+
+    "markdown": true,
+
+    "objective-c": true,
+
+    "objective-cpp": true,
+
+    "perl6": true,
+
+    "php": true,
+
+    "powershell": true,
+
+    "jade": true,
+
+    "python": true,
+
+    "r": true,
+
+    "razor": true,
+
+    "ruby": true,
+
+    "rust": true,
+
+    "scss": true,
+
+    "sass": true,
+
+    "shaderlab": true,
+
+    "shellscript": true,
+
+    "sql": true,
+
+    "swift": true,
+
+    "typescript": true,
+
+    "typescriptreact": true,
+
+    "tex": true,
+
+    "vb": true,
+
+    "xml": true,
+
+    "xsl": true,
+
+    "yaml": true
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "workbench.colorTheme": "One Dark Pro"
+}
