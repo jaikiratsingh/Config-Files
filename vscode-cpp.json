@@ -102,6 +102,8 @@
 		"#include <iostream>",
 		"#include  <unordered_set>",
 		"#include <unordered_map>",
+		"#include <ext/pb_ds/assoc_container.hpp>",
+		"#include <ext/pb_ds/tree_policy.hpp>",
 		"#define int long long",
 		"#define pb push_back",
 		"#define pii pair<int, int>",
@@ -150,5 +152,20 @@
 		"}"
 	  ],
 	  "description": "With Test Case"
+	},
+	"Leet Code": {
+		"prefix": "leetcode",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"",
+			"$1",
+			"",
+			"int main() {",
+			"",
+			"  Solution *solution = new Solution;",
+			"",
+			"}"
+		]
 	}
   }
